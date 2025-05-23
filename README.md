@@ -33,6 +33,9 @@ Achieved over 90% validation accuracy, with robust generalization across common 
 
 📌 Applications
 Human-computer interaction
+
 Voice assistants with emotional awareness
+
 Call center analytics
+
 Mental health monitoring systems
